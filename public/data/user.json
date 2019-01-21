@@ -1,0 +1,12 @@
+{
+  "auth":true,
+  "data":{"username":"bmw","password":"bmw123"},
+  "time":10000,
+  "startTime":0,
+  "fans":124,
+  "follow":128,
+  "open":5,
+  "mimi":12,
+  "caogao":15,
+  "shoucang":22
+}
